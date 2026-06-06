@@ -9982,3 +9982,11 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+.shadow-sm{
+box-shadow: 0 10px 30px rgba(0,0,0,.10)!important;
+transition: .3s;
+}
+
+.shadow-sm{
+transform: translateY(-8px);
+}
