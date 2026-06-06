@@ -9994,3 +9994,6 @@ transition: .3s;
 .shadow-sm{
 transform: translateY(-8px);
 }
+body{
+    background:#f8fafc;
+}
