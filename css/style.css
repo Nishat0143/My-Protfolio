@@ -10000,3 +10000,21 @@ transform: translateY(-8px);
 body{
     background:#f8fafc;
 }
+.section-bg{
+    background:#eef2ff;
+}
+
+.border.rounded{
+    background:#ffffff;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
+
+.shadow-sm{
+    background:#ffffff;
+    box-shadow:0 10px 25px rgba(0,0,0,.08)!important;
+    transition:.3s;
+}
+
+.shadow-sm:hover{
+    transform:translateY(-8px);
+}
