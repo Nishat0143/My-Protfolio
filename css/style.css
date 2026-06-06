@@ -9529,7 +9529,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0BCEAF !important;
+       color:#2563eb !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
