@@ -2371,8 +2371,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #0BCEAF;
-  border-color: #0BCEAF;
+  background-color: #7c3aed;
+  border-color:#7c3aed;
 }
 
 .btn-primary:hover {
@@ -6357,8 +6357,8 @@ a.close.disabled {
 .bg-primary {
    background: linear-gradient(
         135deg,
-        #0f172a,
-        #1e293b
+#0f172a,
+#1e293b
     ) !important;
 }
 
@@ -9532,7 +9532,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-       color:#2563eb !important;
+          color:#7c3aed !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
