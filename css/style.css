@@ -7503,9 +7503,12 @@ button.bg-dark:focus {
 }
 
 .shadow-sm {
-  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+  box-shadow:0 10px 30px rgba(0,0,0,.10)!important;
+    transition:.3s;
 }
-
+.shadow-sm:hover{
+    transform:translateY(-10px);
+}
 .shadow {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
 }
